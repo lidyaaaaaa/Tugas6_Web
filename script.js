@@ -97,7 +97,7 @@ function renderPesanan() {
         <div class="flex gap-2">
             <button class="bg-emerald-400 hover:bg-emerald-600 text-white px-2 rounded decrease">-</button>
             <button class="bg-emerald-400 hover:bg-emerald-600 text-white px-2 rounded increase">+</button>
-            <button class="bg-green-400 hover:bg-green-700 text-white px-2 rounded delete">Hapus</button>
+            <button class="bg-emerald-400 hover:bg-emerald-700 text-white px-2 rounded delete">Hapus</button>
         </div>
         `;
 
