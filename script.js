@@ -95,9 +95,9 @@ function renderPesanan() {
             <p class="text-sm text-gray-500">Rp ${item.harga.toLocaleString()} × ${item.jumlah}</p>
         </div>
         <div class="flex gap-2">
-            <button class="bg-pink-400 hover:bg-pink-600 text-white px-2 rounded decrease">-</button>
-            <button class="bg-pink-400 hover:bg-pink-600 text-white px-2 rounded increase">+</button>
-            <button class="bg-purple-400 hover:bg-purple-700 text-white px-2 rounded delete">Hapus</button>
+            <button class="bg-emerald-400 hover:bg-emerald-600 text-white px-2 rounded decrease">-</button>
+            <button class="bg-emerald-400 hover:bg-emerald-600 text-white px-2 rounded increase">+</button>
+            <button class="bg-green-400 hover:bg-green-700 text-white px-2 rounded delete">Hapus</button>
         </div>
         `;
 
